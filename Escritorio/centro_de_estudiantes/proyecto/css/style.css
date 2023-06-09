@@ -1,0 +1,84 @@
+body{
+    background-color: antiquewhite;
+}
+
+nav{
+    background-color: aquamarine;
+}
+
+
+
+
+.container img{
+    
+ 
+  width: 640px; 
+  margin-left: 25%;
+  display: flex;
+      
+}
+
+.container p{
+    background-color: antiquewhite;
+    width: 640px; 
+    margin-left: 25%;
+    position: relative;
+}
+
+.form{
+    background-color: rgb(56, 54, 54);
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 640px; 
+    margin-left: 0%;
+    position: relative;
+    
+    
+   
+}
+
+
+.form img{
+    margin-left: 70%;
+    width: 200px;
+    height: 100px;
+    align-content: center;
+}
+.form h1{
+    text-align: center;
+}
+
+section{
+    background-color: bisque;
+    margin-left: 55%;
+    margin-top: 0%;
+    position:inline-block;
+    vertical-align: top;
+    font-size: medium;
+    
+}
+section h2{
+    display: inline-block;
+    vertical-align: top;
+    font-size: medium;
+    
+}
+#registrate-chorifest{
+   
+    width: 640px; 
+    margin-left: 25%;
+    position: relative;
+    border-radius: 5%;
+}
+#registrate-chorifest h2{
+    text-align: center;
+    padding: 10%;
+    
+}nav h2{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 1cm;
+}
+
+
+
